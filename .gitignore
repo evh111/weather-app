@@ -1,0 +1,8 @@
+# Node
+/node_modules
+
+# Heroku
+/Procfile
+
+# IDE
+/.vscode
